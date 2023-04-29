@@ -6,8 +6,7 @@
 
 - 🧐 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to eat and sleep
+- 🥅 2023 Goals: Learn more about AWS and Docker
 
 ### Languages and Tools:
 

@@ -30,9 +30,9 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][git]
 [<img align="left" alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" style="padding-right:10px;" />][docker]
-[<img align="left" alt="Prisma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" style="padding-right:10px;" />][prisma]
 [<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />][aws]
 [<img align="left" alt="NestJS" width="26px" src="https://nestjs.com/img/logo-small.svg" style="padding-right:10px;" />][nestjs]
+[<img align="left" alt="Prisma" width="24px" src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png" style="padding-right:10px;" />][prisma]
 <br />
 <br />
 
@@ -62,6 +62,6 @@
 [docker]: https://www.docker.com/
 [angular]: https://angular.io/
 [spring]: https://spring.io/projects/spring-boot
-[prisma]: https://www.prisma.io/
 [aws]: https://aws.amazon.com/
 [nestjs]: https://nestjs.com/
+[prisma]: https://www.prisma.io/
